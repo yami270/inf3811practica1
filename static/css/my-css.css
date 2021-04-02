@@ -1,0 +1,10 @@
+body{
+	background: rgb(0,0,0);
+	background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(28,104,199,1) 56%);
+	color: white;
+}
+
+h2{
+	font-size: 2em;
+}
+
